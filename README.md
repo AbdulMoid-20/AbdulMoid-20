@@ -1,4 +1,4 @@
-# Abdul Moid
+# 👋 Hi, I'm **Abdul Moid**
 
 🌟 **A Passionate Frontend Developer From Pakistan**
 
@@ -16,19 +16,34 @@
 ---
 
 ### 🧠 About Me
-💻 I’m a passionate web developer focused on building clean, modern, and fully responsive websites.  
-🎯 I love working with HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS to bring creative ideas to life.  
-🚀 Currently learning more about JavaScript frameworks to enhance my frontend skills.
+💻 I’m a passionate frontend developer focused on creating clean, modern, and fully responsive websites.  
+🎯 Skilled in HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS.  
+🚀 Currently exploring advanced JavaScript and frameworks to enhance my frontend skills.  
+
+---
+
+### 🏆 GitHub Badges
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abdulmoid-20&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/abdulmoid-20?label=Followers&style=social" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/abdulmoid-20?label=Stars&style=social" alt="GitHub stars"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-![Abdul Moid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulmoid-20&show_icons=true&theme=default)
+![Abdul Moid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulmoid-20&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulmoid-20&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
 ### 💡 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmoid-20&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmoid-20&layout=compact&theme=tokyonight)
 
 ---
 
