@@ -1,7 +1,7 @@
 <!-- Typing SVG Effect -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Abdul+Moid+Frontend Developer;Turning+ideas+into+interactive+digital+interfaces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Abdul+Moid+Frontend+Developer;Turning+ideas+into+interactive+digital+interfaces" alt="Typing SVG" />
 </p>
 
 ---
@@ -38,19 +38,19 @@
 
 ### 📊 GitHub Stats
 
-![Abdul Moid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulmoid-20\&show_icons=true\&theme=radical\&hide_border=true\&border_radius=10)
+![Abdul Moid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulmoid-20\&show_icons=true\&theme=react\&hide_border=true\&border_radius=10)
 
 ---
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulmoid-20\&theme=radical\&hide_border=true\&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulmoid-20\&theme=react\&hide_border=true\&border_radius=10)](https://git.io/streak-stats)
 
 ---
 
 ### 💡 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmoid-20\&layout=compact\&theme=radical\&hide_border=true\&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmoid-20\&layout=compact\&theme=react\&hide_border=true\&border_radius=10)
 
 ---
 
