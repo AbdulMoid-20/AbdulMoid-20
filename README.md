@@ -7,11 +7,11 @@
 ### 🚀 Languages and Tools I Use
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-%237cf03d?style=for-the-badge&logo=html5&logoColor=white" height="40" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%237cf03d?style=for-the-badge&logo=css3&logoColor=white" height="40" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-%237cf03d?style=for-the-badge&logo=javascript&logoColor=white" height="40" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%237cf03d?style=for-the-badge&logo=bootstrap&logoColor=white" height="40" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-%237cf03d?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40" alt="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
 </p>
 
 ---
