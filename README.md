@@ -31,7 +31,7 @@
 
 <p align="left">
   <a href="https://www.credly.com/badges/809081a3-399d-4985-93d4-9fc5ddfe268f/public_url" target="_blank">
-    <img src="PUT-YOUR-BADGE-IMAGE-LINK-HERE" width="130" alt="Cisco HTML Badge"/>
+    <img src="html-essentials.png" width="130" alt="Cisco HTML Badge"/>
   </a>
 </p>
 
@@ -49,19 +49,21 @@
 
 ### 📊 GitHub Stats
 
-![Abdul Moid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulmoid-20&show_icons=true&theme=react&hide_border=true&border_radius=10&count_private=true)
+![Abdul Moid's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=abdulmoid-20&show_icons=true&theme=react&hide_border=true&border_radius=10&count_private=true](https://github-readme-stats-salesp07.vercel.app/api?username=abdulmoid-20
+)
 
 ---
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abdulmoid-20&theme=react&hide_border=true&border_radius=10)
+![GitHub Streak]([https://streak-stats.demolab.com?user=abdulmoid-20&theme=react&hide_border=true&border_radius=10](https://streak-stats.demolab.com?user=abdulmoid-20&theme=react&hide_border=true&border_radius=10)
 
 ---
 
 ### 💡 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmoid-20&layout=compact&theme=react&hide_border=true&border_radius=10)
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmoid-20&layout=compact&theme=react&hide_border=true&border_radius=10](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abdulmoid-20
+)
 
 ---
 
